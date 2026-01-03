@@ -21,5 +21,3 @@ Workflow
 3. Train-test split
 4. Model training and validation
 
-Note
-Dataset is not included due to privacy reasons.
