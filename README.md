@@ -1,7 +1,7 @@
-CTR Prediction using Neural Networks
+## CTR Prediction using Neural Networks
 This project predicts Click-Through Rate (CTR) using SEO and content performance metrics.
 
-Features Used
+## Features Used
 - Impressions
 - Average Position
 - Word Count
@@ -10,17 +10,17 @@ Features Used
 - Backlinks
 - Readability Score
 
-Model Details
+## Model Details
 - TensorFlow / Keras
 - Fully connected neural network
 - StandardScaler for feature normalization
 
-Workflow
+## Workflow
 1. Data loading and cleaning
 2. Feature scaling
 3. Train-test split
 4. Model training and validation
 
-Results
+## Results
 
 The neural network model was trained successfully and demonstrated reasonable performance in predicting Click-Through Rate (CTR) on unseen test data.
