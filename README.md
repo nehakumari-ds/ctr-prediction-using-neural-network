@@ -21,3 +21,5 @@ Workflow
 3. Train-test split
 4. Model training and validation
 
+Results
+The neural network model was trained successfully and demonstrated reasonable performance in predicting Click-Through Rate (CTR) on unseen test data.
